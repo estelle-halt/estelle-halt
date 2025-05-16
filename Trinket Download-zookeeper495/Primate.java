@@ -1,0 +1,15 @@
+/*********************************************
+ * Sample solution Primate class
+ *********************************************/
+public class Primate extends Animal
+{
+  public void forage()
+  {
+    System.out.println("The primates forages for food.");
+  }
+  
+  public void speak()
+  {
+    speak();
+  }
+}
